@@ -1,0 +1,3 @@
+# yajiw
+Html, design, development and more...
+Be thankful :)
